@@ -1,0 +1,3 @@
+name: BungecordTemplate
+version: '${version}'
+main: net.example.bungecordtemplate.BungecordTemplate
